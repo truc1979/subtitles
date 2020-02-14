@@ -37,7 +37,7 @@ These subtitles used to be published on opensubtitles.org. Now, you can also fin
 
 https://www.opensubtitles.org/fr/search/sublanguageid-all/iduser-3113815
 
-https://subscene.com/u/1121973/subtitles?Id=1121973
+https://subscene.com/u/1121973/subtitles
 
 
 
