@@ -6,11 +6,11 @@ truc1979@laposte.net
 =======================
 
 2
-00:03:22,090 --> 00:03:27,640
+00:03:22,090 --> 00:03:24,200
 Congratulations on becoming agent Rachel
 
 3
-00:03:24,200 --> 00:03:31,510
+00:03:24,200 --> 00:03:27,640
 I knew you had it in you
 
 4
@@ -158,7 +158,7 @@ Would you try to come take it?
 Oh, I will
 
 39
-00:16:42,135 --> 00:16:46,170
+00:16:42,135 --> 00:16:44,800
 You call yourself a secret agent,
 
 40
@@ -194,7 +194,7 @@ Age before beauty
 Brains before stupidity
 
 48
-00:18:00,560 --> 00:18:03,000
+00:18:00,560 --> 00:18:02,990
 What I meant was you're the stupid one, ok?
 (- Idiot)
 
@@ -245,7 +245,7 @@ Oh no you didn't!
 Can't believe you stick my spot
 
 60
-00:18:58,150 --> 00:18:59,210
+00:18:58,150 --> 00:18:59,100
 Oh, is this your spot?
 
 61
@@ -289,7 +289,7 @@ Well. Now you've had your cardio.
 Those are the last of the brownies, isn't it?
 
 71
-00:20:15,510 --> 00:20:16,730
+00:20:15,510 --> 00:20:16,520
 I didn't even get one
 
 72
@@ -301,7 +301,7 @@ Oh, honey... you have to watch your girlish figure
 It's not fair Rachel
 
 74
-00:20:22,960 --> 00:20:24,811
+00:20:22,960 --> 00:20:24,680
 You know I wanted a brownie
 
 75
@@ -309,7 +309,7 @@ You know I wanted a brownie
 George: life's not fair
 
 76
-00:20:30,000 --> 00:20:31,490
+00:20:30,000 --> 00:20:30,940
 That's one hell of a woman
 
 77
@@ -426,7 +426,7 @@ What?
 Go down to the break room
 
 105
-00:22:08,900 --> 00:22:10,750
+00:22:08,900 --> 00:22:10,680
 and give me a cup of coffee
 
 106
@@ -882,7 +882,7 @@ Business, huh?
 And was this "business" wearing a white lab coat
 
 217
-00:36:53,550 --> 00:36:57,090
+00:36:53,550 --> 00:36:56,951
 and reeking a fake designer perfume?
 
 218
@@ -902,7 +902,7 @@ That little trollop: Amy
 What about her?
 
 222
-00:37:04,330 --> 00:37:11,360
+00:37:04,330 --> 00:37:08,300
 George I'm serious, I know that you know
 
 223
@@ -926,12 +926,12 @@ Haha. I'm crazy?
 I'M CRAZY?
 
 228
-00:37:22,000 --> 00:37:25,001
+00:37:22,000 --> 00:37:24,610
 I'm not the one was provoked by
 a glass of milk this morning
 
 229
-00:37:24,610 --> 00:37:28,370
+00:37:24,610 --> 00:37:27,760
 I'm not the one that hassled
 the security guards,
 
@@ -957,7 +957,7 @@ you set me up, and for your information
 they proceeded to get very intimate with me
 
 235
-00:37:40,320 --> 00:37:43,580
+00:37:40,320 --> 00:37:42,230
 I guess I should be grateful
 
 236
@@ -1012,7 +1012,7 @@ Rachel, I would like to see you alone, please
 Absolutely
 
 248
-00:38:13,450 --> 00:38:15,450
+00:38:13,450 --> 00:38:14,850
 - Z?
 - Yes?
 
@@ -1075,7 +1075,7 @@ feeling it may be my last
 Really, Sir?
 
 263
-00:39:15,050 --> 00:39:17,750
+00:39:15,050 --> 00:39:17,631
 I don't think there's any coming back
 from this one, kid
 
@@ -1100,7 +1100,7 @@ The Middle Eastern ones
 You know... those guys...
 
 269
-00:39:27,920 --> 00:39:29,300
+00:39:27,920 --> 00:39:29,200
 mm-hmm
 
 270
@@ -1146,15 +1146,15 @@ Good
 Here's what I need for you to do
 
 280
-00:40:04,500 --> 00:40:07,970
+00:40:04,500 --> 00:40:07,190
 Take this cellphone, guard it with your life
 
 281
-00:40:07,190 --> 00:40:12,860
+00:40:07,190 --> 00:40:10,550
 I'm going to be meeting my contacts
 
 282
-00:40:10,550 --> 00:40:14,720
+00:40:10,550 --> 00:40:12,860
 and they are very dangerous men and they
 
 283
@@ -1249,7 +1249,7 @@ Now go.
 I have to prepare for this kind of mission
 
 305
-00:41:17,221 --> 00:41:18,321
+00:41:17,221 --> 00:41:18,231
 But Sir...
 
 306
@@ -1342,7 +1342,7 @@ about not getting missions now, wouldn't you?
 Well, except fetching coffee
 
 328
-00:42:24,750 --> 00:42:28,810
+00:42:24,750 --> 00:42:27,040
 Now why would you have to go there, okay?
 
 329
@@ -1405,7 +1405,7 @@ he'll accomplish the mission?
 You just don't get it
 
 343
-00:43:22,310 --> 00:43:24,140
+00:43:22,310 --> 00:43:23,770
 He's not on a secret mission
 
 344
@@ -1459,7 +1459,7 @@ And his fate rests squarely in palms of your hands
 You're the only one he can trust
 
 356
-00:44:04,200 --> 00:44:06,161
+00:44:04,200 --> 00:44:05,700
 His last hope
 
 357
@@ -1476,7 +1476,7 @@ George: - Yeah
 Listen: that's a story he gave his last secretary
 
 360
-00:44:15,500 --> 00:44:17,230
+00:44:15,500 --> 00:44:17,100
 Rachel, listen, don't get mad
 
 361
@@ -1521,7 +1521,7 @@ Okay
 I am an administrative assistant!
 
 371
-00:44:45,461 --> 00:44:47,391
+00:44:45,461 --> 00:44:46,871
 [tazzer sound]
 
 372
@@ -1533,7 +1533,7 @@ I am an administrative assistant!
 She's crazy
 
 374
-00:46:05,910 --> 00:46:10,550
+00:46:05,910 --> 00:46:10,050
 Jesus, who are you, for God sake
 
 375
@@ -1554,7 +1554,7 @@ Beautiful
 It's not to say say what we swine (?)
 
 379
-00:46:19,050 --> 00:46:21,450
+00:46:19,050 --> 00:46:21,120
 it's just things with asses you know
 
 380
@@ -1818,11 +1818,11 @@ Here
 ***
 
 443
-00:56:34,490 --> 00:56:36,290
+00:56:34,490 --> 00:56:36,020
 Thank you captain Obvious
 
 444
-00:56:36,020 --> 00:56:43,360
+00:56:36,020 --> 00:56:37,500
 Oh oh my god do you think he's dead
 
 445
@@ -1956,7 +1956,7 @@ and we're gonna act as
 if we know nothing, okay?
 
 475
-00:57:51,039 --> 00:57:52,189
+00:57:51,039 --> 00:57:51,889
 I don't want to go back...
 
 476
@@ -2021,7 +2021,7 @@ place to catch crab is.
 [Indistinct chatting]
 
 490
-00:58:31,751 --> 00:58:34,751
+00:58:31,751 --> 00:58:34,160
 Yeah, give that
 [Rachel coughs]
 
@@ -2082,7 +2082,7 @@ Right
 Well since you worked so closely with him,
 
 504
-00:59:50,220 --> 00:59:53,559
+00:59:50,220 --> 00:59:52,200
 (I'm just a little curious who've you overheard)
 
 505
@@ -2260,7 +2260,7 @@ No. Fuck you!
 [Fax's noise]
 
 547
-01:03:03,290 --> 01:03:05,470
+01:03:03,290 --> 01:03:05,450
 You can't really be serious about this
 
 548
@@ -2277,7 +2277,7 @@ call someone, you know, for backup?
 You saw the report: there's no time
 
 551
-01:03:13,850 --> 01:03:16,030
+01:03:13,850 --> 01:03:16,000
 The terrorists are gonna bomb
 the US in a couple of days
 
@@ -2610,7 +2610,7 @@ I'm just getting fair
 Fine. Get the bags
 
 630
-01:08:38,899 --> 01:08:41,270
+01:08:38,899 --> 01:08:41,249
 - I ain't getting the bags!
 - George, bags!
 
@@ -2669,7 +2669,7 @@ What is Helsinki?
 Yes!
 
 644
-01:10:12,200 --> 01:10:15,090
+01:10:12,200 --> 01:10:15,050
 Efendi, please excuse the interruption,
 
 645
@@ -2698,7 +2698,7 @@ Here, English agents, they're on to us
 Why don't you tell me this?
 
 651
-01:10:30,050 --> 01:10:32,880
+01:10:30,050 --> 01:10:32,790
 Uh... Okay...
 
 652
@@ -2780,7 +2780,7 @@ You should put some sunscreen on, baby
 (Okay)
 
 671
-01:17:21,750 --> 01:17:22,751
+01:17:21,750 --> 01:17:22,650
 - Agents?
 - Argh!
 
@@ -3126,7 +3126,7 @@ Hold on a second
 Agent X is here and you're sure?
 
 753
-01:26:42,250 --> 01:26:44,050
+01:26:42,250 --> 01:26:43,950
 He took out some of our best men
 
 754
@@ -3253,7 +3253,7 @@ And what is Teddy doing on the floor?
 Let... Let me explain...
 
 783
-01:40:25,100 --> 01:40:28,120
+01:40:25,100 --> 01:40:26,550
 Explain what?
 
 784
@@ -3312,15 +3312,15 @@ Muffy's my baby!
 We have to go find Muffy
 
 797
-01:41:27,120 --> 01:41:30,320
+01:41:27,120 --> 01:41:29,100
 She could be in the desert all by herself
 
 798
-01:41:29,100 --> 01:41:32,349
+01:41:29,100 --> 01:41:29,640
 Rachel,
 
 799
-01:41:29,640 --> 01:41:32,130
+01:41:29,640 --> 01:41:31,970
 get a hold of yourself.
 We CANNOT go back
 
@@ -3511,7 +3511,7 @@ The agents are...
 Yoohoo!
 
 845
-01:44:31,601 --> 01:44:34,601
+01:44:31,601 --> 01:44:32,500
 Who the hell are you?
 
 846
@@ -3774,7 +3774,7 @@ I think it's that one
 That one?
 
 908
-01:47:58,101 --> 01:47:59,680
+01:47:58,101 --> 01:47:58,912
 Yeah
 
 909
@@ -3799,7 +3799,7 @@ That's a good guess
 [*gas is leaking*]
 
 914
-01:49:29,940 --> 01:49:35,470
+01:49:29,940 --> 01:49:30,592
 guys remember t
 
 915
@@ -4032,7 +4032,7 @@ Here what? Well done!
 So we're team now, right?
 
 970
-01:54:56,860 --> 01:55:00,860
+01:54:56,860 --> 01:55:00,800
 ♪ You want our help ♪
 ♪ You want our help ♪
 
@@ -4443,7 +4443,7 @@ We have not seen men like you before
 We only see one man
 
 1067
-02:01:18,000 --> 02:01:20,329
+02:01:18,000 --> 02:01:20,320
 Oh... That's nice... I guess
 
 1068
@@ -4674,7 +4674,7 @@ No
 - This way
 
 1122
-02:16:00,241 --> 02:16:01,081
+02:16:00,241 --> 02:16:01,071
 [Together:] - THIS WAY
 
 1123
@@ -5292,7 +5292,7 @@ Come on
 A kiss to Papa
 
 1272
-02:23:47,320 --> 02:23:48,430
+02:23:47,320 --> 02:23:48,410
 Come on, don't be shy
 
 1273
@@ -5497,15 +5497,15 @@ But don't you start by eating my pussy, huh?
 Show me what you can do
 
 1322
-02:36:36,420 --> 02:36:39,110
+02:36:36,420 --> 02:36:38,410
 That's right, ***
 
 1323
-02:36:38,410 --> 02:36:41,620
+02:36:38,410 --> 02:36:38,930
 [Music]
 
 1324
-02:36:38,930 --> 02:36:46,410
+02:36:38,930 --> 02:36:41,620
 [Applause]
 
 1325
@@ -5517,7 +5517,7 @@ That's right, ***
 (You like that)
 
 1327
-02:36:51,550 --> 02:36:54,480
+02:36:51,550 --> 02:36:54,220
 Come on teacher, that's right
 
 1328
@@ -5742,27 +5742,27 @@ Oh...
 Oh no...
 
 1382
-02:45:55,900 --> 02:45:59,169
+02:45:55,900 --> 02:45:56,650
 FIVE
 
 1383
-02:45:56,650 --> 02:45:59,650
+02:45:56,650 --> 02:45:57,450
 FOUR
 
 1384
-02:45:57,450 --> 02:46:00,450
+02:45:57,450 --> 02:45:58,400
 THREE
 
 1385
-02:45:58,400 --> 02:46:01,400
+02:45:58,400 --> 02:45:59,480
 TWO
 
 1386
-02:45:59,480 --> 02:46:02,480
+02:45:59,480 --> 02:46:00,660
 ONE
 
 1387
-02:46:00,660 --> 02:46:02,660
+02:46:00,660 --> 02:46:01,750
 ZERO
 
 1388
@@ -5770,7 +5770,7 @@ ZERO
 IGNITION
 
 1389
-02:46:02,811 --> 02:46:12,061
+02:46:02,811 --> 02:46:06,061
 oh oh now I'm an idiot m
 
 1390
@@ -5778,11 +5778,11 @@ oh oh now I'm an idiot m
 You idiot!
 
 1391
-02:46:07,371 --> 02:46:08,761
+02:46:07,371 --> 02:46:08,700
 Oh now I'm an idiot
 
 1392
-02:46:08,700 --> 02:46:10,090
+02:46:08,700 --> 02:46:09,930
 Miss I gotta have you now
 
 1393
